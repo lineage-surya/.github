@@ -18,6 +18,7 @@ Visit these important repositories:
 ### Whats works?
 
 	* Camera
+	* Fingerprint
 	* RIL
 	* Wifi
 	* Bluetooth
@@ -30,8 +31,8 @@ Visit these important repositories:
 ### Bugs?
 
 	* Some lineage features (Not implemented yet)
-	* Fingerprint? still buggly in A12L
 	* VoLTE? idk in my country not supporting tell me
+	* Tell me if you find a bug
 
 ### Credits
 

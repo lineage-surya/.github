@@ -3,17 +3,17 @@
 LineageOS 19.1 for Poco X3 NFC Unified ("surya/karna")
 ===========
 
-Unofficial builds
+Unofficial trees experimentals
 
 LineageOS Android Distribution A free and open-source operating system for various devices, based on the Android mobile platform.
 
-### Device Configurations (use branch lineage-19.1)
+### Device Configurations
 
-Visit these important repositories:
+Visit these important official repositories:
 
-- [Device](https://github.com/lineage-surya/android_device_xiaomi_surya)
-- [Vendor](https://github.com/lineage-surya/android_vendor_xiaomi_surya)
-- [Kernel](https://github.com/lineage-surya/android_kernel_xiaomi_surya)
+- [Device](https://github.com/LineageOS/android_device_xiaomi_surya)
+- [Vendor](https://github.com/LineageOS/android_vendor_xiaomi_surya)
+- [Kernel](https://github.com/LineageOS/android_kernel_xiaomi_surya)
 
 ### Whats works?
 
@@ -27,11 +27,11 @@ Visit these important repositories:
 	* GPS
 	* Telephony (Calls)
 	* Sensors
+	* VoLTE
 
 ### Bugs?
 
 	* Some lineage features (Not implemented yet)
-	* VoLTE? idk in my country not supporting tell me
 	* Tell me if you find a bug
 
 ### Credits

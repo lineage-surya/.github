@@ -12,7 +12,7 @@ LineageOS Android Distribution A free and open-source operating system for vario
 Visit these important official repositories:
 
 - [Device](https://github.com/LineageOS/android_device_xiaomi_surya)
-- [Vendor](https://github.com/LineageOS/android_vendor_xiaomi_surya)
+- [Vendor](https://gitlab.com/the-muppets/proprietary_vendor_xiaomi)
 - [Kernel](https://github.com/LineageOS/android_kernel_xiaomi_surya)
 
 ### Whats works?

@@ -1,6 +1,6 @@
 ![LineageOS](https://www.lineageos.org/assets/img/peek_device.png)
 
-LineageOS 19.1 for Poco X3 NFC Unified ("surya/karna")
+LineageOS 20.0 for Poco X3 NFC Unified ("surya/karna")
 ===========
 
 Unofficial trees experimentals
@@ -17,17 +17,7 @@ Visit these important official repositories:
 
 ### Whats works?
 
-	* Camera
-	* Fingerprint
-	* RIL
-	* Wifi
-	* Bluetooth
-	* Video Playback
-	* Audio (Record and Playback)
-	* GPS
-	* Telephony (Calls)
-	* Sensors
-	* VoLTE
+	* Boot
 
 ### Bugs?
 

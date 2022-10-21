@@ -18,16 +18,17 @@ Visit these important official repositories:
 ### Whats works?
 
 	* Boot
+	* Camera
 	* Wifi
 	* NFC
 	* RIL
 	* BT
 	* FP
+	* GPS
+	* Selinux enforcing
 
 ### Bugs?
 
-	* Camera
-	* Selinux permissive
 	* Some lineage features (Not implemented yet)
 	* Tell me if you find a bug
 

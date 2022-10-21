@@ -18,9 +18,16 @@ Visit these important official repositories:
 ### Whats works?
 
 	* Boot
+	* Wifi
+	* NFC
+	* RIL
+	* BT
+	* FP
 
 ### Bugs?
 
+	* Camera
+	* Selinux permissive
 	* Some lineage features (Not implemented yet)
 	* Tell me if you find a bug
 
